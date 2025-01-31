@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: WHAT DID SHE DO?
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of her past class projects and research
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [research, project] #[work, fun]
 horizontal: false
 ---
 
