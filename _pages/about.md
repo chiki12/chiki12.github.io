@@ -23,17 +23,17 @@ social: true # includes social icons at the bottom of the page
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
 
-Chiki Luo is a fourth year undergraduate student in Tokyo Institute of Technology. Her major is Mathematical and Computing Science and I am belonging to Fujisawa Lab.
+Chiki Luo is a fourth year undergraduate student in Tokyo Institute of Technology. Her major is Mathematical and Computing Science and she is belonging to Fujisawa Lab.
 
-My favorite TV series: 
+Her favorite TV series: 
 - Young Sheldon
 - Brooklyn 99
 
-TV shows I am watching/planing to watch recently:
+TV shows she is watching/planing to watch recently:
   - Squid Game 2
   - Brooklyn 99
 
-My research interest is HCI, social computing, CSCW. While my research is about prompt engineering with fashion recommendation..
+Her research interest is HCI, social computing, CSCW. While her thesis research is about prompt engineering with fashion recommendation..
 
 
 <div class="row justify-content-sm-center">
@@ -45,7 +45,7 @@ My research interest is HCI, social computing, CSCW. While my research is about 
     </div>
 </div>
 <div class="caption">
-    Random Tokyo nature picures during sakura season captured from Chiki's phone camera.
+    Random Tokyo nature picures during sakura season captured from her phone camera.
 </div>
 
 

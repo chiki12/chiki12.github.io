@@ -11,7 +11,7 @@ related_publications: false
 ## Title: Prompt Optimization for Outfit Generation through Neural Network-based Feedback Loops
 #### Undergraduate Thesis 
 #### Graduation date: March, 2025
-#### Advisor: Prof. Katsuki Fujisawa
+#### Advisor: Professor Katsuki Fujisawa
 
 For undergraduate thesis, we proposed a workflow of automated prompt refinement for fashion image generation using language models, with the objective of utilizing the existing AI generation tools with reasonable computational cost.
 By assuming compatible scores represent the unique fashion style of the dataset that the score model trained on, we use it as metric for the refinement process.
@@ -26,12 +26,6 @@ By assuming compatible scores represent the unique fashion style of the dataset 
     The workflow of the proposed prompt refinement system, consisting of an image generator, an language model, and OutfitTransformer CP model.
 </div>
 
--	Item Description Prompt:
- Item descriptions used as input for the image generator
--	Refinement Language Prompt:
- Prompts used as input for the language model to refine item descriptions
--	Image Generation Prompt: 
-Prompt used by the image generator to generate items based on item descriptions
 
 By intergrating fashion scoring model{% cite sarkar2023outfittransformer %}, image generative model and large language model in the system and automize it with outfit set data, it can automatically refining the text description prompt from initial description and generate new images following scores of fashion scoring system as a sole metric.
 

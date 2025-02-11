@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: research project program
+description: a research project program
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 3
-category: work
+importance: 2
+category: project
 ---
 
 Every project has a beautiful feature showcase page.
